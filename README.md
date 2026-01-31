@@ -24,11 +24,11 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBiZGE0Y2NkYjFiMTE2NmFmY2U1NjJlM2ExZjM2MWM4MTQ3YmQ3OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 Information Technology Student
-- 🌱 Currently diving deep into **AIML & Full Stack Development**
+- 🌱 Currently diving deep into **Full Stack Development**
 - 💡 Passionate about solving real-world problems through code
 - 🎯 Looking for opportunities in **Java Development**
-- 💬 Ask me about **Tech, AI, or anything interesting!**
-- 📝 Resume: [View Resume](https://drive.google.com/file/d/1yhSA7THSyxwYK5fRo5hnJAqfXPereEhl/view?usp=sharing)
+- 💬 Ask me about **Tech,anything interesting!**
+- 📝 Resume: [View Resume](https://drive.google.com/file/d/1Rf4x6wFFQxWKHD67BJhKhsghZWmAVrcN/view?usp=sharing)
 - ⚡ Fun fact: **I turn coffee into code!**
 
 <div align="center">
