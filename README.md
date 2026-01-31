@@ -158,29 +158,8 @@
   <hr width="90%" style="height: 2px; background: linear-gradient(to right, #8A2387, #E94057, #F27121);">
 </div>
 
-## <div align="center">📊 GitHub Stats</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarnashinchu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" width="49%" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sabarnashinchu&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Sabarna's%20GitHub%20Stats" width="49%" alt="GitHub Stats"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarnashinchu&theme=radical&hide_border=true&layout=compact&langs_count=8" width="49%" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sabarnashinchu&theme=radical&row=1&column=4&no-frame=true&margin-w=15" width="49%" alt="Trophy"/>
-</div>
-
-## <div align="center">📈 Activity Graph</div>
-
-<div align="center">
-  <img alt="Sabarna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sabarnashinchu&bg_color=0D1117&color=00FFFF&line=00FFAA&point=FFFFFF&area=true&hide_border=true&area_color=00FFB3&area_alpha=0.2" />
-</div>
-
-## <div align="center">🏆 LeetCode Stats</div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Sabarna15?theme=dark&font=Montserrat&ext=heatmap&animation=true" alt="LeetCode Stats"/>
-</div>
 
 ## <div align="center">🌱 My Latest Projects</div>
 
