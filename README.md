@@ -153,36 +153,11 @@
 
 
 
-
-## <div align="center">🌱 My Latest Projects</div>
-
-<div align="center">
-  <!-- Actual project links -->
-  <a href="https://github.com/sabarnashinchu/smart-Task-manager-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabarnashinchu&repo=smart-Task-manager-&theme=radical" />
-  </a>
-  <a href="https://github.com/sabarnashinchu/Face-Fun-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabarnashinchu&repo=Face-Fun-Website&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <p>
-    <a href="https://github.com/sabarnashinchu/smart-Task-manager-"><b>Smart Task Manager</b></a> - A full-stack task management application combining React/Material-UI frontend with Spring Boot backend
-  </p>
-  <p>
-    <a href="https://github.com/sabarnashinchu/Face-Fun-Website"><b>Face Fun Website</b></a> - Interactive face detection and analysis application
-  </p>
-</div>
-
 <div align="center">
   <hr width="90%" style="height: 2px; background: linear-gradient(to right, #8A2387, #E94057, #F27121);">
 </div>
 
-<h2 align="center">📫 Reach Out to Me</h2>
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sabarna-t-3b668225a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 </p>
 
 <div align="center">
