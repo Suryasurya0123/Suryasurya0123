@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=240&section=header&text=Sabarna%20T&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AIML%20Enthusiast&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&customColorList=10&height=240&section=header&text=Surya%20T&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AIML%20Enthusiast&descAlignY=58&descAlign=50"/>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sabarna-t-3b668225a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/surya.s-3b668225a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/Sabarna15/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://github.com/sabarnashinchu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -24,11 +24,11 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBiZGE0Y2NkYjFiMTE2NmFmY2U1NjJlM2ExZjM2MWM4MTQ3YmQ3OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 Information Technology Student
-- 🌱 Currently diving deep into **AIML & Full Stack Development**
+- 🌱 Currently diving deep into **Full Stack Development**
 - 💡 Passionate about solving real-world problems through code
 - 🎯 Looking for opportunities in **Java Development**
-- 💬 Ask me about **Tech, AI, or anything interesting!**
-- 📝 Resume: [View Resume](https://drive.google.com/file/d/1yhSA7THSyxwYK5fRo5hnJAqfXPereEhl/view?usp=sharing)
+- 💬 Ask me about **Tech,anything interesting!**
+- 📝 Resume: [View Resume](https://drive.google.com/file/d/1Rf4x6wFFQxWKHD67BJhKhsghZWmAVrcN/view?usp=sharing)
 - ⚡ Fun fact: **I turn coffee into code!**
 
 <div align="center">
