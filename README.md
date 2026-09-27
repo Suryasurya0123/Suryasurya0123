@@ -1,18 +1,5 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=240&section=header&text=Surya%20s&fontSize=90&animation=fadeIn&fontAlignY=38&desc=/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&height=100&lines=;;Problem+Solver;+%E2%98%95+%3D++%F0%9F%92%BB;Always+Learning" alt="Typing SVG" />
-</div>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabarnashinchu&style=for-the-badge&color=blueviolet" alt=""/>
-</p>
-
-## <div align="center">👨‍💻 About Me</div>
+ ## <div align="center">👨‍💻 About Me</div>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBiZGE0Y2NkYjFiMTE2NmFmY2U1NjJlM2ExZjM2MWM4MTQ3YmQ3OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
